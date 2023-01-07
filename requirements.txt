@@ -1,0 +1,4 @@
+kafka-python==2.0.2
+psycopg==3.1.7
+pytz==2022.7
+typing-extensions==4.4.0
